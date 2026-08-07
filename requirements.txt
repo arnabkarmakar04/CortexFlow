@@ -1,0 +1,13 @@
+fastmcp
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-groq
+langchain-openai                         
+langchain-huggingface                    
+langchain-mcp-adapters                   
+langchain-pinecone                       
+langgraph
+pydantic
+langchain-tavily 
