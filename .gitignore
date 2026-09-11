@@ -218,11 +218,10 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Project specific
-credentials.json
-token.json
-auth_setup.py
-test-node-v1.py
 
-# Database files
+# 1. Database files
 *.db
 *.sqlite
+
+# 2. Folders
+auth/
